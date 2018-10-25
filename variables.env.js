@@ -1,0 +1,4 @@
+var PUSHER_APP_ID = '618413';
+var PUSHER_APP_KEY = 'ee6da2a7899a404e0af0';
+var PUSHER_APP_SECRET = '3a2a94fdd7cee8b0fa84';
+var PUSHER_APP_CLUSTER = 'us2';
